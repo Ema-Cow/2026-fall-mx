@@ -6,3 +6,13 @@ html{
   border: 3px solid rgb(243, 243, 255);
   border-radius: 20px;
 }
+.footer{
+  background-color: light-dark(rgb(211, 211, 255), rgb(178, 166, 255))
+}
+
+
+.center{
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
