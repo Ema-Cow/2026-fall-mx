@@ -5,6 +5,12 @@
 		}
   ],
   "settings": {
-    "chat.disableAIFeatures": true
+    "chat.disableAIFeatures": true,
+    "emmet.excludeLanguages": [
+      "markdown",
+      "html"
+    ],
+    "editor.wordWrapIndicator": true,
+    "editor.wordWrap": "on"
   }
 }
